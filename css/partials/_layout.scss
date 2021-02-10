@@ -127,7 +127,6 @@ $container-s: 540px;
   }
 }
 
-
 .bx {
   width: 40px;
   height: 40px;
@@ -191,7 +190,7 @@ $container-s: 540px;
   transform: translate3d(-190px,0,0);
   transition: .7s ease;
 
-  @include responsive(s){
+  @include responsive(s) {
     transform: translate3d(0,0,0);
   }
 }
@@ -253,7 +252,7 @@ $container-s: 540px;
   justify-content: center;
   align-items: center;
 
-  svg{
+  svg {
     width: 100%;
     border: 0px solid green;
 
