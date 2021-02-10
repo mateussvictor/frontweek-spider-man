@@ -9,4 +9,5 @@
 ### Developed during the frontweek.
 
 <br>
-<p>Credits to [Nasser Yousef Ali](https://github.com/nyousefali)</p>
+
+Credits to <a href="https://github.com/nyousefali">Nasser Yousef Ali</a>
