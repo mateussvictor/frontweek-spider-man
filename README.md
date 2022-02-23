@@ -22,6 +22,7 @@ Technologies and features:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [SASS](https://sass-lang.com/)
 - [SVG animations](https://developer.mozilla.org/en-US/docs/Web/SVG)
+- [GSAP](https://greensock.com/gsap/)
 
 <br>
 
