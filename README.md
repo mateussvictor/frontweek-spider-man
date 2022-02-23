@@ -1,9 +1,9 @@
+<h1 align='center'>Spider-Man landing page 🕸️<h1>
+
 <p align="center">
   <img src="github/spider.png" alt="Spider-man Page">
 </p>
 <br>
-
-<h1 align='center'>Spider-Man landing page 🕸️<h1>
 
 <br>
 
